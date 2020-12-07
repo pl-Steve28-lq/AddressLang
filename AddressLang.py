@@ -18,7 +18,7 @@ class AddressLang:
 
     def compile(self, code, debug=False):
         key = "@~pl-Steve28-lq~@"
-        code = code.replace("://", key).split("/")
+        code = code.lower().replace("://", key).split("/")
         init, code = code[0], code[1:]
         strict = init.split(key)[0] == "https"
         point = 0
