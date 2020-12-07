@@ -23,3 +23,10 @@ Jump command save value of memory that pointer points, and jump (saved memory + 
 > Alphabet
 a = Plus, b = Minus, c = Left, d = Right, e = Print, f = Input, g = Jump, h is Plus again, and go on.<br>
 Capital Letters are replaced by Lower Letters.
+
+### Code Example
+Print Hello, World!
+```
+https://HelloWorld.Steve28.com/ajhahahahaha/qhavahoo/xvavvvaaavv/xahha/xhoa/krydw.duq/qvozx/azavhhvaoesahae/jahave/cval/drkahahahahahahahaz/qehaolpwibwbe/piwipiwis/qxae
+```
+(Obfuscated version!!)
